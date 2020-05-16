@@ -56,8 +56,8 @@ def winner(board)
   end
 end
 
-# board = ["X", " ", " ", " ", "X", " ", " ", " ", "X"]
-# # full?(board)
-# print won?(board)
-# print winner(board)
-# # draw?(board)
+board = ["X", " ", " ", " ", "X", " ", " ", " ", "X"]
+# full?(board)
+print won?(board)
+print winner(board)
+# draw?(board)
